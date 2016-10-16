@@ -1,0 +1,12 @@
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\bin\Release\WinFormCharpWebCam.exe
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\bin\Release\WebCam_Capture.dll
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\bin\Release\AForge.Video.DirectShow.dll
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\bin\Release\AForge.Video.dll
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\obj\x86\Release\WinFormCharpWebCam.mainWinForm.resources
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\obj\x86\Release\WinFormCharpWebCam.Properties.Resources.resources
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\obj\x86\Release\WinFormCharpWebCam.exe
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\obj\x86\Release\WinFormCharpWebCam.pdb
+D:\Freelancer\001 USBCamera C#\WinFormCharpWebCam\bin\Release\WinFormCharpWebCam.pdb

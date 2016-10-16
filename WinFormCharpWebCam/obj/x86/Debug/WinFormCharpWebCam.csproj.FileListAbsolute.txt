@@ -1,0 +1,10 @@
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\bin\Debug\WinFormCharpWebCam.exe
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\bin\Debug\WinFormCharpWebCam.pdb
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\bin\Debug\WebCam_Capture.dll
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\obj\x86\Debug\WinFormCharpWebCam.mainWinForm.resources
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\obj\x86\Debug\WinFormCharpWebCam.Properties.Resources.resources
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\obj\x86\Debug\WinFormCharpWebCam.exe
+C:\Users\Dizon\Desktop\WinFormCharpWebCam\WinFormCharpWebCam\obj\x86\Debug\WinFormCharpWebCam.pdb
